@@ -4,6 +4,8 @@ Abstract—
 
 Trust and Integrity are two parallel lines that can’t be interchanged or compromised in the world of technology. Considering the importance of trust, integrity can be maintained in a distributed system but with some factors in consideration hence Blockchain. Blockchain is a decentralized data management concept, with an immutable feature of causing a positive disruption in our day to day transactions. In a simple tense, it is a set of blocks that contains information. Blockchain technology application can be deployed in all sectors ranging from financial services, telecommunication, internet of things, cryptocurrency, risk management etc. A number of studies on blockchain outlined security and scalability as the main challenge. However, this review paper will address the two aforementioned challenges, show the milestone done in addressing the challenges, x-ray the birth and origin of blockchain compared to the traditional data base, show the opportunities blockchain technology has enabled, what could be the obstacles to blockchain adoption in the 21st world and conclude with the risk blockchain will expose the existing solutions and enterprises if adopted. 
 
+
+
 I.	INTRODUCTION 
 Blockchain technology and techniques all begin with a group of researches in 1991, who wanted to implement a document digital with no possibility of tampering in any form such as backdating or making changes when compared to a notary. They were successful though it was not talked about either was it used. In 2009, the same technology was adopted by Satochi Nakamoto in creating digital cryptocurrency known as Bitcoin.
  All of this was in a quest to breach the challenges that the internet has created and what do I mean?
